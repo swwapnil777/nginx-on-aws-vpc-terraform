@@ -1,7 +1,7 @@
 ![diagram-export-8-8-2024-9_35_35-AM](https://github.com/user-attachments/assets/85ff5f51-1b32-4412-b16f-5d09e875be21)
-Sure, here's the updated README file without the example `main.tf` section:
 
-```markdown
+
+
 # AWS VPC Setup with Terraform and NGINX Server
 
 This repository contains Terraform configurations to set up an AWS VPC with public and private subnets. An NGINX server is hosted in the public subnet.
